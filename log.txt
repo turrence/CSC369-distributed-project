@@ -22,3 +22,6 @@ What players might make the 50, 40, 90 club (fg%, 3p%, ft%)? (within 5% for each
 What 10 coaches promote the most scoring per game? Print coach and the points the team scores per game along with team. 
 
 Bryce Campbell
+Bryce answered 2 questions regarding player and team statistics in addition to filling out the report for these questions.
+- List the 5 players with the most play time in order of play time, descending with their points per game.
+- What is the record for the five teams with the most turnovers per game?
