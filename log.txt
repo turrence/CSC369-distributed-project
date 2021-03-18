@@ -1,0 +1,14 @@
+Terence Tong
+Terence answered 3 questions regarding coach statistics.
+- What record does the coach who has the most career games have this season?
+- Is there a difference between a coaches career win percentage and current season record with the current team that they are on?
+    Print coach name, [team name], career win, season win percentage (sort by |career win % - current season win %| ascending)
+- What is the record for the coach who has the best record in games decided by 3 or less points?
+
+Terence also worked on the report that answered those respective questions.
+
+James Ngo
+
+Brendan Corr
+
+Bryce Campbell
