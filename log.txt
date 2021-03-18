@@ -10,5 +10,9 @@ Terence also worked on the report that answered those respective questions.
 James Ngo
 
 Brendan Corr
+Brendan got the overall standings and worked on the two questions below. He also did the presentation for the respective questions.
+
+What players might make the 50, 40, 90 club (fg%, 3p%, ft%)? (within 5% for each category) Return all the eligible players and order by the highest shooting percentage for each.
+What 10 coaches promote the most scoring per game? Print coach and the points the team scores per game along with team. 
 
 Bryce Campbell
